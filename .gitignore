@@ -1,5 +1,5 @@
 .*
 !.gitignore
 !.project
-tests
-temp.txt
+/tests/
+/temp.txt
